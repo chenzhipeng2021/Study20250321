@@ -1,0 +1,2 @@
+通过opencv-contrib-python模块创建级联分类器可以用两种方法，就是本文件夹下面的两个文件夹下的两类特征文件，但在程序中使用的代码是一样的，都是下面的
+cascades = cv2.CascadeClassifier('xxxx.xml')
